@@ -3,3 +3,7 @@
     <img src="https://raw.githubusercontent.com/freedomtowin/fat-chance-editor/master/readme_assets/fat_chance.ico" alt="Fat Chance Icon">
   </a>
 </h1>
+
+<div align="center">
+<h1 style="font-family: 'Courier'; font-size: 36px;">Your Header Text</h1>
+</div>
