@@ -8,8 +8,11 @@
 <h1 style="font-family: 'Monaco, Inter, sans-serif'; font-size: 36px;">Fat Chance Editor</h1>
 </div>
 
+# About
 
 Fat Chance Editor is designed for fast context switching, processing content with AI queries. The file tree, editor, terminal are tightly integrated, allowing the terminal to access the data in the editor and file tree.
+
+### Processing Content
 
 The editor uses a "cloud-style" strategy to process content with the built-in command line tool. The command line tool allows users to read, write, and apply transformations in the following formats:
 
@@ -19,6 +22,8 @@ The editor uses a "cloud-style" strategy to process content with the built-in co
 4) A directory of Cached transformation (as a list)
 
 Commands can be piped into other commands like in the Terminal, allowing for complex pipelines to be plainly represented and executed.
+
+### Comfort Features
 
 For comfort, the editor has fully reactive navigation with the directional arrow keys, reducing the number of mouse clicks and interruptions to flow states. 
 
