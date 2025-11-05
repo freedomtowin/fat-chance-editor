@@ -5,5 +5,5 @@
 </h1>
 
 <div align="center">
-<h1 style="font-family: 'Courier'; font-size: 36px;">Your Header Text</h1>
+<h1 style="font-family: 'Monaco, Inter, sans-serif'; font-size: 36px;">Fat Chance Editor</h1>
 </div>
