@@ -25,8 +25,8 @@ Commands can be piped into other commands like in the Terminal, allowing for com
 
 ### Comfort Features
 
-For comfort, the editor has fully reactive navigation with the directional arrow keys, reducing the number of mouse clicks and interruptions to flow states. 
+* For comfort, the editor has fully reactive navigation with the directional arrow keys, reducing the number of mouse clicks and interruptions to flow states. 
 
-A light green selection overlay shows which view is selected. Entering and escaping a view is intuitive with the Enter and Escape keyboard keys. 
+* A light green selection overlay shows which view is selected. Entering and escaping a view is intuitive with the Enter and Escape keyboard keys. 
  
-The element views have been paired-down with unused views being hidden to improve overall focus.Shortcuts to file paths enable fast context switching. 
+* The element views have been paired-down with unused views being hidden to improve overall focus.Shortcuts to file paths enable fast context switching. 
